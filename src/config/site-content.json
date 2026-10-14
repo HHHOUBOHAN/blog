@@ -47,21 +47,21 @@
 			"type": "github",
 			"value": "https://github.com/HHHOUBOHAN",
 			"label": "Github",
-			"order": 3
+			"order": 4
 		},
 		{
 			"id": "bilibili",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/2088224726",
 			"label": "Bilibili",
-			"order": 2
+			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
 			"value": "https://juejin.cn/user/4316047110320793",
 			"label": "掘金",
-			"order": 4
+			"order": 2
 		},
 		{
 			"id": "email",

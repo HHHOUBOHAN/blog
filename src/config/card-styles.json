@@ -61,7 +61,7 @@
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": null,
+		"offsetX": -600,
 		"offsetY": null,
 		"enabled": true
 	},
@@ -98,7 +98,7 @@
 		"enabled": false
 	},
 	"beianCard": {
-		"width": 200,
+		"width": 220,
 		"height": 60,
 		"order": 11,
 		"offsetX": 216,

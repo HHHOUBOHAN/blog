@@ -23,10 +23,9 @@ export default function BeianCard() {
 
 	return (
 		<HomeDraggableLayer cardKey='beianCard' x={x} y={y} width={styles.width} height={styles.height}>
-			<Card order={styles.order} width={styles.width} height={styles.height} x={x} y={y} className='flex items-center justify-center gap-2 px-3 max-sm:static'>
+			<Card order={styles.order} width={styles.width} height={styles.height} x={x} y={y} className='flex flex-col items-center justify-center gap-1 px-3 max-sm:static'>
 				{beianList.map((item, index) => (
 					<Fragment key={index}>
-						{index > 0 && <span className='text-secondary/50 text-xs'>|</span>}
 						{item.link ? (
 							<Link
 								href={item.link}
