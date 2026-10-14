@@ -48,3 +48,6 @@ next-env.d.ts
 .history/
 # WebStorm
 .idea/
+
+# like counts
+/data

@@ -1,1 +1,34 @@
-[]
+[
+	{
+		"name": "掘金",
+		"url": "https://juejin.cn",
+		"logo": "/images/share/juejin.svg",
+		"description": "国内优质的技术社区，前端、后端、AI 等内容都很丰富，平时刷一刷能学到不少新东西。",
+		"tags": ["技术", "社区"],
+		"stars": 4
+	},
+	{
+		"name": "GitHub",
+		"url": "https://github.com",
+		"logo": "/images/share/github.svg",
+		"description": "全球最大的代码托管平台，我的博客源码就放在这里，还能用 Actions 实现自动部署。",
+		"tags": ["代码", "开源"],
+		"stars": 5
+	},
+	{
+		"name": "哔哩哔哩",
+		"url": "https://www.bilibili.com",
+		"logo": "/images/share/bilibili.svg",
+		"description": "大学生自学宝地，高数、线代、编程课基本都能在上面找到免费课程。",
+		"tags": ["学习", "视频"],
+		"stars": 5
+	},
+	{
+		"name": "知乎",
+		"url": "https://www.zhihu.com",
+		"logo": "/images/share/zhihu.svg",
+		"description": "问答社区，遇到专业问题或者想看看别人的经验贴时可以来逛逛。",
+		"tags": ["问答", "社区"],
+		"stars": 3
+	}
+]
