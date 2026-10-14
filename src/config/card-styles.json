@@ -54,14 +54,14 @@
 		"height": 180,
 		"order": 7,
 		"offsetX": null,
-		"offsetY": null,
+		"offsetY": 284,
 		"enabled": true
 	},
 	"articleCard": {
 		"width": 266,
 		"height": 160,
 		"order": 8,
-		"offsetX": -400,
+		"offsetX": -440,
 		"offsetY": null,
 		"enabled": true
 	},
