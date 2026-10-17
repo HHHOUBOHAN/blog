@@ -261,8 +261,10 @@ export default function SocialButtons() {
 	return (
 		<HomeDraggableLayer cardKey='socialButtons' x={x} y={y} width={styles.width} height={styles.height}>
 			<motion.div className='absolute max-sm:static' animate={{ left: x, top: y }} initial={{ left: x, top: y }}>
-				<div className='absolute top-0 left-0 flex flex-row-reverse items-center gap-3 max-sm:static' style={{ width: styles.width }}>
-					{sortedButtons.map(button => renderButton(button))}
+				<div
+					className='absolute top-0 left-0 flex flex-row-reverse items-center gap-3 max-sm:static max-sm:w-full max-sm:flex-row max-sm:overflow-x-auto max-sm:px-4 max-sm:pb-2 max-sm:[&>*]:shrink-0'
+					style={maxSM ? undefined : { width: styles.width }}>
+					{(maxSM ? [...sortedButtons].reverse() : sortedButtons).map(button => renderButton(button))}
 				</div>
 			</motion.div>
 		</HomeDraggableLayer>

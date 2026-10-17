@@ -1,1 +1,30 @@
-[]
+[
+	{
+		"name": "smart-water-tank-controller",
+		"year": 2026,
+		"description": "基于 4G 的智能水箱监测与水泵控制系统，支持远程数据监控和自动抽水控制。",
+		"image": "/images/projects/smart-water-tank.png",
+		"url": "https://github.com/HHHOUBOHAN/smart-water-tank-controller",
+		"tags": [
+			"C",
+			"嵌入式",
+			"4G",
+			"MQTT"
+		],
+		"github": "https://github.com/HHHOUBOHAN/smart-water-tank-controller"
+	},
+	{
+		"name": "STM32_Temperature_Humidity_MQTT_System",
+		"year": 2026,
+		"description": "STM32 温湿度 MQTT 监测控制系统，支持 OLED 显示、按键配置和 Flash 掉电数据保存。",
+		"image": "/images/projects/stm32-mqtt.png",
+		"url": "https://github.com/HHHOUBOHAN/STM32_Temperature_Humidity_MQTT_System",
+		"tags": [
+			"STM32",
+			"MQTT",
+			"OLED",
+			"嵌入式"
+		],
+		"github": "https://github.com/HHHOUBOHAN/STM32_Temperature_Humidity_MQTT_System"
+	}
+]

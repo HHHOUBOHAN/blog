@@ -4,7 +4,10 @@
 		"url": "https://juejin.cn",
 		"logo": "/images/share/juejin.svg",
 		"description": "国内优质的技术社区，前端、后端、AI 等内容都很丰富，平时刷一刷能学到不少新东西。",
-		"tags": ["技术", "社区"],
+		"tags": [
+			"技术",
+			"社区"
+		],
 		"stars": 4
 	},
 	{
@@ -12,7 +15,10 @@
 		"url": "https://github.com",
 		"logo": "/images/share/github.svg",
 		"description": "全球最大的代码托管平台，我的博客源码就放在这里，还能用 Actions 实现自动部署。",
-		"tags": ["代码", "开源"],
+		"tags": [
+			"代码",
+			"开源"
+		],
 		"stars": 5
 	},
 	{
@@ -20,7 +26,10 @@
 		"url": "https://www.bilibili.com",
 		"logo": "/images/share/bilibili.svg",
 		"description": "大学生自学宝地，高数、线代、编程课基本都能在上面找到免费课程。",
-		"tags": ["学习", "视频"],
+		"tags": [
+			"学习",
+			"视频"
+		],
 		"stars": 5
 	},
 	{
@@ -28,7 +37,76 @@
 		"url": "https://www.zhihu.com",
 		"logo": "/images/share/zhihu.svg",
 		"description": "问答社区，遇到专业问题或者想看看别人的经验贴时可以来逛逛。",
-		"tags": ["问答", "社区"],
+		"tags": [
+			"问答",
+			"社区"
+		],
+		"stars": 3
+	},
+	{
+		"name": "FreeRTOS",
+		"url": "https://blog.csdn.net/2502_94826925/category_13214004.html",
+		"logo": "/images/share/csdn.svg",
+		"description": "铁头山羊 FreeRTOS 学习笔记。",
+		"tags": [
+			"CSDN专栏",
+			"嵌入式"
+		],
+		"stars": 3
+	},
+	{
+		"name": "MySQL",
+		"url": "https://blog.csdn.net/2502_94826925/category_13208341.html",
+		"logo": "/images/share/csdn.svg",
+		"description": "MySQL 学习分享。",
+		"tags": [
+			"CSDN专栏",
+			"数据库"
+		],
+		"stars": 3
+	},
+	{
+		"name": "模电",
+		"url": "https://blog.csdn.net/2502_94826925/category_13208340.html",
+		"logo": "/images/share/csdn.svg",
+		"description": "模电学习。",
+		"tags": [
+			"CSDN专栏",
+			"硬件基础"
+		],
+		"stars": 3
+	},
+	{
+		"name": "数电",
+		"url": "https://blog.csdn.net/2502_94826925/category_13208339.html",
+		"logo": "/images/share/csdn.svg",
+		"description": "数电学习。",
+		"tags": [
+			"CSDN专栏",
+			"硬件基础"
+		],
+		"stars": 3
+	},
+	{
+		"name": "QT&LVGL",
+		"url": "https://blog.csdn.net/2502_94826925/category_13208337.html",
+		"logo": "/images/share/csdn.svg",
+		"description": "QT 与 LVGL 图形界面开发笔记，记录 GUI 界面搭建与控件使用。",
+		"tags": [
+			"CSDN专栏",
+			"GUI"
+		],
+		"stars": 3
+	},
+	{
+		"name": "STM32",
+		"url": "https://blog.csdn.net/2502_94826925/category_13205108.html",
+		"logo": "/images/share/csdn.svg",
+		"description": "STM32 基础知识学习，铁头山羊为主，江科大为辅。",
+		"tags": [
+			"CSDN专栏",
+			"嵌入式"
+		],
 		"stars": 3
 	}
 ]
