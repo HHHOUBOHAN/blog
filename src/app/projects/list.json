@@ -26,5 +26,16 @@
 			"嵌入式"
 		],
 		"github": "https://github.com/HHHOUBOHAN/STM32_Temperature_Humidity_MQTT_System"
+	},
+	{
+		"name": "STM32F103-Balance-Car",
+		"year": 2026,
+		"image": "blob:https://hbh0137.cn/c53175be-1ec5-4690-8e33-a308ef04789a",
+		"url": "https://github.com/HHHOUBOHAN/stm32f103-balance-car",
+		"description": "两轮自平衡小车学习项目",
+		"tags": [
+			"平衡小车"
+		],
+		"github": "https://github.com/HHHOUBOHAN/stm32f103-balance-car"
 	}
 ]
